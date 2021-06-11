@@ -25,7 +25,31 @@ require_once 'admin/backend/config.php';
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia modi dolore magnam! Iste libero voluptatum autem, sapiente ullam earum nostrum sed magnam vel laboriosam quibusdam, officia, esse vitae dignissimos nulla?
         </aside>
         <main>
-            <!-- hier komen de attractiekaartjes -->
+            <div class="attracties">
+
+                <div class="attractie">
+                    <div class="foto">
+                        <img src="" alt="">
+                    </div>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis, quibusdam libero. Minima, temporibus cupiditate enim impedit necessitatibus dolor, illo numquam, sint quae rerum eum veritatis quo fugiat ducimus quod reiciendis.</p>
+                </div>
+
+                <div class="attractie fastpass">
+                    <div class="foto">
+                        <img src="" alt="">
+                    </div>
+                    <div class="informatie">
+                        <p>ADVENTURELAND</p>
+                        <p><b>Speedy XL</b></p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                    <div class="fastticket">
+                        <p>deze attractie is alleen maar te bezoeken met een fastpass.</p>
+                        <p>boek nu en sla de wachtrij over</p>
+                    </div>
+                </div>
+
+            </div>
         </main>
     </div>
 

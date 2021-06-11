@@ -102,6 +102,22 @@ body{
     margin-right: 5rem;
 }
 
+.attracties{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.fastpass{
+  display: grid;
+  grid-column: span 2;
+}
+
+.attractie{
+  border: 1px solid black;
+  display: grid;
+}
+
 .msg{
     margin: 1rem 0;
     padding: 1rem;
